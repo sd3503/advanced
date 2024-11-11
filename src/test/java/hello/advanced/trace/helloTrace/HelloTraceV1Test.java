@@ -3,7 +3,7 @@ package hello.advanced.trace.helloTrace;
 import hello.advanced.trace.TraceStatus;
 import org.junit.jupiter.api.Test;
 
-public class HelloTraceTest {
+public class HelloTraceV1Test {
     @Test
     void begin_end() {
         HelloTraceV1 trace = new HelloTraceV1();
